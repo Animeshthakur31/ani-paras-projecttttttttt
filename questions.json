@@ -1,0 +1,2622 @@
+[
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Very Personal Network",
+      "Virtual Public Network",
+      "Verified Private Network"
+    ],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "Which of the following is a strong password?",
+    "options": ["password123", "P@ssw0rd!2024", "12345678", "admin"],
+    "answer": "P@ssw0rd!2024"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is malware?",
+    "options": [
+      "Software update",
+      "Malicious software",
+      "Hardware component",
+      "Network protocol"
+    ],
+    "answer": "Malicious software"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What does HTTPS stand for?",
+    "options": [
+      "Hyper Text Transfer Protocol Secure",
+      "High Transfer Protocol System",
+      "Hyper Transfer Protocol Server",
+      "High Text Transfer Protocol"
+    ],
+    "answer": "Hyper Text Transfer Protocol Secure"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is phishing?",
+    "options": [
+      "A type of fishing",
+      "A social engineering attack",
+      "A programming language",
+      "A network device"
+    ],
+    "answer": "A social engineering attack"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "Which is NOT a type of malware?",
+    "options": ["Virus", "Trojan", "Firewall", "Ransomware"],
+    "answer": "Firewall"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is two-factor authentication?",
+    "options": [
+      "Two passwords",
+      "Two security layers",
+      "Two usernames",
+      "Two computers"
+    ],
+    "answer": "Two security layers"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What does SSL stand for?",
+    "options": [
+      "Secure Socket Layer",
+      "System Security Level",
+      "Server Side Language",
+      "Super Secure Link"
+    ],
+    "answer": "Secure Socket Layer"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is a firewall used for?",
+    "options": [
+      "Increase internet speed",
+      "Block unauthorized access",
+      "Store passwords",
+      "Create backups"
+    ],
+    "answer": "Block unauthorized access"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is encryption?",
+    "options": [
+      "Deleting data",
+      "Converting data to coded form",
+      "Backing up data",
+      "Sharing data"
+    ],
+    "answer": "Converting data to coded form"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is antivirus software?",
+    "options": [
+      "Creates viruses",
+      "Detects and removes malware",
+      "Speeds up computer",
+      "Manages files"
+    ],
+    "answer": "Detects and removes malware"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What does HTTP stand for?",
+    "options": [
+      "Hyper Text Transfer Protocol",
+      "High Transfer Text Protocol",
+      "Hyper Transfer Protocol",
+      "High Text Transfer Protocol"
+    ],
+    "answer": "Hyper Text Transfer Protocol"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is a computer virus?",
+    "options": [
+      "Hardware failure",
+      "Self-replicating malicious code",
+      "Network error",
+      "Software update"
+    ],
+    "answer": "Self-replicating malicious code"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is spam email?",
+    "options": [
+      "Important messages",
+      "Unsolicited bulk email",
+      "Encrypted email",
+      "Deleted email"
+    ],
+    "answer": "Unsolicited bulk email"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What should you do with suspicious emails?",
+    "options": [
+      "Open all attachments",
+      "Reply immediately",
+      "Delete without opening",
+      "Forward to everyone"
+    ],
+    "answer": "Delete without opening"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is a password manager?",
+    "options": [
+      "Creates weak passwords",
+      "Stores and manages passwords securely",
+      "Deletes passwords",
+      "Shares passwords publicly"
+    ],
+    "answer": "Stores and manages passwords securely"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is social engineering?",
+    "options": [
+      "Building bridges",
+      "Manipulating people to reveal information",
+      "Writing code",
+      "Networking computers"
+    ],
+    "answer": "Manipulating people to reveal information"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What does URL stand for?",
+    "options": [
+      "Universal Resource Locator",
+      "Uniform Resource Locator",
+      "United Resource Link",
+      "Universal Resource Link"
+    ],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is ransomware?",
+    "options": [
+      "Free software",
+      "Malware that encrypts files for ransom",
+      "Antivirus software",
+      "Operating system"
+    ],
+    "answer": "Malware that encrypts files for ransom"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "question": "What is a trojan horse in cybersecurity?",
+    "options": [
+      "Legitimate software",
+      "Malware disguised as legitimate software",
+      "Network device",
+      "Programming language"
+    ],
+    "answer": "Malware disguised as legitimate software"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What type of attack involves overwhelming a server with traffic?",
+    "options": ["Phishing", "DDoS", "SQL Injection", "Man-in-the-Middle"],
+    "answer": "DDoS"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "Which encryption standard is currently recommended for Wi-Fi security?",
+    "options": ["WEP", "WPA", "WPA2", "WPA3"],
+    "answer": "WPA3"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is SQL injection?",
+    "options": [
+      "Database backup",
+      "Code injection attack",
+      "Network protocol",
+      "Encryption method"
+    ],
+    "answer": "Code injection attack"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What does IDS stand for in cybersecurity?",
+    "options": [
+      "Internet Data Service",
+      "Intrusion Detection System",
+      "Internal Defense System",
+      "Information Delivery Service"
+    ],
+    "answer": "Intrusion Detection System"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is a zero-day vulnerability?",
+    "options": [
+      "A vulnerability known for zero days",
+      "An unknown vulnerability with no patch",
+      "A vulnerability fixed immediately",
+      "A fake vulnerability"
+    ],
+    "answer": "An unknown vulnerability with no patch"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is the purpose of penetration testing?",
+    "options": [
+      "Install software",
+      "Find system vulnerabilities",
+      "Create backups",
+      "Speed up networks"
+    ],
+    "answer": "Find system vulnerabilities"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is a brute force attack?",
+    "options": [
+      "Physical attack on hardware",
+      "Trying all password combinations",
+      "Network flooding",
+      "Data deletion"
+    ],
+    "answer": "Trying all password combinations"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What does CIA stand for in information security?",
+    "options": [
+      "Central Intelligence Agency",
+      "Confidentiality, Integrity, Availability",
+      "Computer Internet Access",
+      "Cyber Investigation Authority"
+    ],
+    "answer": "Confidentiality, Integrity, Availability"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is cross-site scripting (XSS)?",
+    "options": [
+      "Database attack",
+      "Injecting malicious scripts into web pages",
+      "Password attack",
+      "Network scanning"
+    ],
+    "answer": "Injecting malicious scripts into web pages"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is the purpose of a honeypot?",
+    "options": [
+      "Store passwords",
+      "Attract and trap attackers",
+      "Speed up networks",
+      "Encrypt data"
+    ],
+    "answer": "Attract and trap attackers"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is port scanning?",
+    "options": [
+      "Checking for open ports",
+      "Closing all ports",
+      "Encrypting ports",
+      "Deleting ports"
+    ],
+    "answer": "Checking for open ports"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is a man-in-the-middle attack?",
+    "options": [
+      "Physical theft",
+      "Intercepting communication between two parties",
+      "Deleting files",
+      "Installing software"
+    ],
+    "answer": "Intercepting communication between two parties"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is the purpose of access control?",
+    "options": [
+      "Increase speed",
+      "Restrict who can access resources",
+      "Delete files",
+      "Create backups"
+    ],
+    "answer": "Restrict who can access resources"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is a botnet?",
+    "options": [
+      "Single infected computer",
+      "Network of infected computers",
+      "Antivirus software",
+      "Web browser"
+    ],
+    "answer": "Network of infected computers"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is digital forensics?",
+    "options": [
+      "Creating malware",
+      "Investigating digital crimes",
+      "Programming websites",
+      "Designing networks"
+    ],
+    "answer": "Investigating digital crimes"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is the principle of least privilege?",
+    "options": [
+      "Give everyone admin access",
+      "Give minimum necessary access",
+      "Remove all access",
+      "Share all passwords"
+    ],
+    "answer": "Give minimum necessary access"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is a keylogger?",
+    "options": [
+      "Password generator",
+      "Records keystrokes",
+      "Deletes keys",
+      "Encrypts keyboard"
+    ],
+    "answer": "Records keystrokes"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is DNS spoofing?",
+    "options": [
+      "Speeding up DNS",
+      "Redirecting DNS queries to malicious sites",
+      "Creating DNS servers",
+      "Deleting DNS records"
+    ],
+    "answer": "Redirecting DNS queries to malicious sites"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is multi-factor authentication?",
+    "options": [
+      "One password",
+      "Multiple authentication methods",
+      "No authentication",
+      "Biometric only"
+    ],
+    "answer": "Multiple authentication methods"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Medium",
+    "question": "What is the Dark Web?",
+    "options": [
+      "Regular internet",
+      "Hidden part of internet requiring special access",
+      "Social media",
+      "Email service"
+    ],
+    "answer": "Hidden part of internet requiring special access"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the primary purpose of a Security Information and Event Management (SIEM) system?",
+    "options": [
+      "Encrypt data",
+      "Monitor and analyze security events",
+      "Block malware",
+      "Manage passwords"
+    ],
+    "answer": "Monitor and analyze security events"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is a buffer overflow attack?",
+    "options": [
+      "Overloading network bandwidth",
+      "Overwriting memory to execute malicious code",
+      "Filling hard drive",
+      "Creating too many files"
+    ],
+    "answer": "Overwriting memory to execute malicious code"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the difference between symmetric and asymmetric encryption?",
+    "options": [
+      "No difference",
+      "Symmetric uses one key, asymmetric uses two",
+      "Asymmetric is weaker",
+      "Symmetric is newer"
+    ],
+    "answer": "Symmetric uses one key, asymmetric uses two"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is a rainbow table attack?",
+    "options": [
+      "Colorful display",
+      "Precomputed hash lookup attack",
+      "Network flooding",
+      "Physical attack"
+    ],
+    "answer": "Precomputed hash lookup attack"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the purpose of salting in password hashing?",
+    "options": [
+      "Make passwords taste better",
+      "Add random data to prevent rainbow table attacks",
+      "Slow down hashing",
+      "Delete passwords"
+    ],
+    "answer": "Add random data to prevent rainbow table attacks"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is Advanced Persistent Threat (APT)?",
+    "options": [
+      "Quick attack",
+      "Prolonged targeted attack",
+      "Automated tool",
+      "Software update"
+    ],
+    "answer": "Prolonged targeted attack"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the OWASP Top 10?",
+    "options": [
+      "Top 10 hackers",
+      "Top 10 web application security risks",
+      "Top 10 programming languages",
+      "Top 10 antivirus software"
+    ],
+    "answer": "Top 10 web application security risks"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is privilege escalation?",
+    "options": [
+      "Reducing privileges",
+      "Gaining higher access rights",
+      "Logging out",
+      "Creating users"
+    ],
+    "answer": "Gaining higher access rights"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the purpose of certificate pinning?",
+    "options": [
+      "Attach certificates to walls",
+      "Prevent man-in-the-middle attacks by validating certificates",
+      "Delete certificates",
+      "Share certificates"
+    ],
+    "answer": "Prevent man-in-the-middle attacks by validating certificates"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is security through obscurity?",
+    "options": [
+      "Best security practice",
+      "Relying on secrecy of implementation",
+      "Encryption standard",
+      "Network protocol"
+    ],
+    "answer": "Relying on secrecy of implementation"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is a timing attack?",
+    "options": [
+      "Attacking during specific time",
+      "Exploiting time differences in operations",
+      "Scheduling malware",
+      "Time zone attack"
+    ],
+    "answer": "Exploiting time differences in operations"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the CIA triad opposite called?",
+    "options": [
+      "FBI triad",
+      "DAD triad (Disclosure, Alteration, Denial)",
+      "NSA triad",
+      "KGB triad"
+    ],
+    "answer": "DAD triad (Disclosure, Alteration, Denial)"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is steganography?",
+    "options": [
+      "Writing code",
+      "Hiding data within other data",
+      "Deleting files",
+      "Network protocol"
+    ],
+    "answer": "Hiding data within other data"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is a side-channel attack?",
+    "options": [
+      "Attacking from the side",
+      "Exploiting information leaked during computation",
+      "Network attack",
+      "Social engineering"
+    ],
+    "answer": "Exploiting information leaked during computation"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the difference between IDS and IPS?",
+    "options": [
+      "No difference",
+      "IDS detects, IPS prevents",
+      "IPS is older",
+      "IDS is hardware only"
+    ],
+    "answer": "IDS detects, IPS prevents"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is fuzzing in security testing?",
+    "options": [
+      "Making things unclear",
+      "Providing invalid input to find vulnerabilities",
+      "Encryption method",
+      "Password guessing"
+    ],
+    "answer": "Providing invalid input to find vulnerabilities"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is a race condition vulnerability?",
+    "options": [
+      "Racing computers",
+      "Timing-dependent security flaw",
+      "Network speed issue",
+      "CPU problem"
+    ],
+    "answer": "Timing-dependent security flaw"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the purpose of a WAF (Web Application Firewall)?",
+    "options": [
+      "Speed up websites",
+      "Protect web applications from attacks",
+      "Host websites",
+      "Design websites"
+    ],
+    "answer": "Protect web applications from attacks"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is defense in depth?",
+    "options": [
+      "Single security layer",
+      "Multiple layers of security controls",
+      "Deep learning",
+      "Underground security"
+    ],
+    "answer": "Multiple layers of security controls"
+  },
+  {
+    "subject": "Cybersecurity",
+    "difficulty": "Hard",
+    "question": "What is the principle of fail-safe defaults?",
+    "options": [
+      "Always fail",
+      "Deny access by default",
+      "Allow everything",
+      "Never fail"
+    ],
+    "answer": "Deny access by default"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to create a class in Java?",
+    "options": ["class", "Class", "new", "object"],
+    "answer": "class"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is the default value of a boolean variable in Java?",
+    "options": ["true", "false", "null", "0"],
+    "answer": "false"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which method is the entry point of a Java program?",
+    "options": ["start()", "main()", "run()", "execute()"],
+    "answer": "main()"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is the extension of a Java source file?",
+    "options": [".java", ".class", ".jar", ".jav"],
+    "answer": ".java"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which keyword is used for inheritance in Java?",
+    "options": ["extends", "implements", "inherits", "super"],
+    "answer": "extends"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is the size of int in Java?",
+    "options": ["8 bits", "16 bits", "32 bits", "64 bits"],
+    "answer": "32 bits"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which package is automatically imported in Java?",
+    "options": ["java.util", "java.lang", "java.io", "java.net"],
+    "answer": "java.lang"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is used to create objects in Java?",
+    "options": ["create", "new", "object", "init"],
+    "answer": "new"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which loop guarantees at least one execution?",
+    "options": ["for", "while", "do-while", "foreach"],
+    "answer": "do-while"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is the parent class of all classes in Java?",
+    "options": ["Object", "Class", "Super", "Parent"],
+    "answer": "Object"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which operator is used for string concatenation?",
+    "options": ["+", "&", "concat", "append"],
+    "answer": "+"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is the default value of a String variable?",
+    "options": ["empty string", "null", "undefined", "0"],
+    "answer": "null"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to prevent method overriding?",
+    "options": ["static", "final", "private", "sealed"],
+    "answer": "final"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is the correct way to declare an array?",
+    "options": ["int[] arr", "int arr[]", "Both A and B", "array int arr"],
+    "answer": "Both A and B"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which method is used to print in Java?",
+    "options": [
+      "print()",
+      "println()",
+      "System.out.println()",
+      "console.log()"
+    ],
+    "answer": "System.out.println()"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is encapsulation in Java?",
+    "options": [
+      "Hiding implementation details",
+      "Multiple inheritance",
+      "Interface implementation",
+      "Exception handling"
+    ],
+    "answer": "Hiding implementation details"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which access modifier is most restrictive?",
+    "options": ["public", "private", "protected", "default"],
+    "answer": "private"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What does JVM stand for?",
+    "options": [
+      "Java Virtual Machine",
+      "Java Variable Method",
+      "Java Version Manager",
+      "Java Visual Mode"
+    ],
+    "answer": "Java Virtual Machine"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to create interface?",
+    "options": ["interface", "Interface", "implements", "abstract"],
+    "answer": "interface"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Easy",
+    "question": "What is the wrapper class for int?",
+    "options": ["Int", "Integer", "Number", "Wrapper"],
+    "answer": "Integer"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "Which collection class allows duplicate elements and maintains insertion order?",
+    "options": ["HashSet", "TreeSet", "ArrayList", "HashMap"],
+    "answer": "ArrayList"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is method overloading in Java?",
+    "options": [
+      "Same method name, different parameters",
+      "Same method name, same parameters",
+      "Different method names",
+      "Inheritance concept"
+    ],
+    "answer": "Same method name, different parameters"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is the difference between == and equals()?",
+    "options": [
+      "No difference",
+      "== compares references, equals() compares values",
+      "== is faster",
+      "equals() is deprecated"
+    ],
+    "answer": "== compares references, equals() compares values"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is a constructor in Java?",
+    "options": [
+      "Regular method",
+      "Special method to initialize objects",
+      "Variable",
+      "Interface"
+    ],
+    "answer": "Special method to initialize objects"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is the purpose of the 'this' keyword?",
+    "options": [
+      "Refer to current object",
+      "Create new object",
+      "Delete object",
+      "Compare objects"
+    ],
+    "answer": "Refer to current object"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is exception handling in Java?",
+    "options": [
+      "Ignoring errors",
+      "Managing runtime errors",
+      "Preventing compilation",
+      "Deleting exceptions"
+    ],
+    "answer": "Managing runtime errors"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "Which keyword is used to handle exceptions?",
+    "options": ["try-catch", "if-else", "switch", "handle"],
+    "answer": "try-catch"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is polymorphism in Java?",
+    "options": [
+      "Multiple forms",
+      "Single form",
+      "No forms",
+      "Abstract concept"
+    ],
+    "answer": "Multiple forms"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is the difference between abstract class and interface?",
+    "options": [
+      "No difference",
+      "Abstract class can have constructors",
+      "Interface is concrete",
+      "Abstract class is newer"
+    ],
+    "answer": "Abstract class can have constructors"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is a static method?",
+    "options": [
+      "Instance method",
+      "Class-level method",
+      "Private method",
+      "Abstract method"
+    ],
+    "answer": "Class-level method"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is garbage collection in Java?",
+    "options": [
+      "Manual memory management",
+      "Automatic memory management",
+      "Deleting files",
+      "Cleaning code"
+    ],
+    "answer": "Automatic memory management"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is the purpose of the 'super' keyword?",
+    "options": [
+      "Create super class",
+      "Refer to parent class",
+      "Delete parent",
+      "Override parent"
+    ],
+    "answer": "Refer to parent class"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is a package in Java?",
+    "options": [
+      "Single class",
+      "Group of related classes",
+      "Method",
+      "Variable"
+    ],
+    "answer": "Group of related classes"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is multithreading?",
+    "options": [
+      "Single execution path",
+      "Multiple execution paths",
+      "No execution",
+      "Slow execution"
+    ],
+    "answer": "Multiple execution paths"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "Which interface should a thread implement?",
+    "options": ["Runnable", "Thread", "Executable", "Concurrent"],
+    "answer": "Runnable"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is serialization in Java?",
+    "options": [
+      "Converting object to stream",
+      "Deleting objects",
+      "Creating objects",
+      "Comparing objects"
+    ],
+    "answer": "Converting object to stream"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is the difference between String and StringBuilder?",
+    "options": [
+      "No difference",
+      "String is immutable, StringBuilder is mutable",
+      "StringBuilder is deprecated",
+      "String is newer"
+    ],
+    "answer": "String is immutable, StringBuilder is mutable"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is autoboxing?",
+    "options": [
+      "Manual conversion",
+      "Automatic conversion of primitives to wrappers",
+      "Deleting boxes",
+      "Creating boxes"
+    ],
+    "answer": "Automatic conversion of primitives to wrappers"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is the finally block used for?",
+    "options": [
+      "Handle exceptions",
+      "Execute code regardless of exception",
+      "Prevent exceptions",
+      "Create exceptions"
+    ],
+    "answer": "Execute code regardless of exception"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Medium",
+    "question": "What is method overriding?",
+    "options": [
+      "Same method in different classes",
+      "Redefining parent method in child class",
+      "Creating new method",
+      "Deleting method"
+    ],
+    "answer": "Redefining parent method in child class"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "Which design pattern ensures a class has only one instance?",
+    "options": ["Factory", "Singleton", "Observer", "Decorator"],
+    "answer": "Singleton"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the purpose of volatile keyword?",
+    "options": [
+      "Make variable constant",
+      "Ensure visibility across threads",
+      "Delete variable",
+      "Encrypt variable"
+    ],
+    "answer": "Ensure visibility across threads"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is reflection in Java?",
+    "options": [
+      "Mirror image",
+      "Inspecting and modifying runtime behavior",
+      "Code review",
+      "Testing"
+    ],
+    "answer": "Inspecting and modifying runtime behavior"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the difference between Comparable and Comparator?",
+    "options": [
+      "No difference",
+      "Comparable is natural ordering, Comparator is custom",
+      "Comparator is deprecated",
+      "Comparable is newer"
+    ],
+    "answer": "Comparable is natural ordering, Comparator is custom"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What are generics in Java?",
+    "options": [
+      "General classes",
+      "Type parameterization",
+      "Regular methods",
+      "Variables"
+    ],
+    "answer": "Type parameterization"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the purpose of transient keyword?",
+    "options": [
+      "Make variable temporary",
+      "Exclude from serialization",
+      "Delete variable",
+      "Encrypt variable"
+    ],
+    "answer": "Exclude from serialization"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is a lambda expression?",
+    "options": [
+      "Regular expression",
+      "Anonymous function",
+      "Variable",
+      "Class"
+    ],
+    "answer": "Anonymous function"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the Stream API used for?",
+    "options": [
+      "I/O operations",
+      "Functional-style operations on collections",
+      "Network streaming",
+      "Video streaming"
+    ],
+    "answer": "Functional-style operations on collections"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the difference between fail-fast and fail-safe iterators?",
+    "options": [
+      "No difference",
+      "Fail-fast throws exception on modification",
+      "Fail-safe is deprecated",
+      "Fail-fast is newer"
+    ],
+    "answer": "Fail-fast throws exception on modification"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the purpose of synchronized keyword?",
+    "options": [
+      "Speed up execution",
+      "Thread synchronization",
+      "Delete threads",
+      "Create threads"
+    ],
+    "answer": "Thread synchronization"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is deadlock in multithreading?",
+    "options": [
+      "Thread termination",
+      "Threads waiting for each other indefinitely",
+      "Fast execution",
+      "Thread creation"
+    ],
+    "answer": "Threads waiting for each other indefinitely"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the purpose of Optional class?",
+    "options": [
+      "Make everything optional",
+      "Handle null values gracefully",
+      "Delete values",
+      "Create values"
+    ],
+    "answer": "Handle null values gracefully"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the difference between HashMap and ConcurrentHashMap?",
+    "options": [
+      "No difference",
+      "ConcurrentHashMap is thread-safe",
+      "HashMap is newer",
+      "ConcurrentHashMap is deprecated"
+    ],
+    "answer": "ConcurrentHashMap is thread-safe"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is method reference in Java 8?",
+    "options": [
+      "Calling methods",
+      "Shorthand for lambda expressions",
+      "Deleting methods",
+      "Creating methods"
+    ],
+    "answer": "Shorthand for lambda expressions"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the purpose of functional interface?",
+    "options": [
+      "Multiple abstract methods",
+      "Single abstract method for lambda",
+      "No methods",
+      "Deprecated interface"
+    ],
+    "answer": "Single abstract method for lambda"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the fork/join framework?",
+    "options": [
+      "Version control",
+      "Parallel task execution",
+      "Exception handling",
+      "Database operations"
+    ],
+    "answer": "Parallel task execution"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the difference between Heap and Stack memory?",
+    "options": [
+      "No difference",
+      "Heap for objects, Stack for method calls",
+      "Stack is larger",
+      "Heap is deprecated"
+    ],
+    "answer": "Heap for objects, Stack for method calls"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is weak reference in Java?",
+    "options": [
+      "Strong pointer",
+      "Reference that doesn't prevent garbage collection",
+      "Deleted reference",
+      "Invalid reference"
+    ],
+    "answer": "Reference that doesn't prevent garbage collection"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is the purpose of CompletableFuture?",
+    "options": [
+      "Complete tasks",
+      "Asynchronous programming",
+      "Delete futures",
+      "Create tasks"
+    ],
+    "answer": "Asynchronous programming"
+  },
+  {
+    "subject": "Java",
+    "difficulty": "Hard",
+    "question": "What is classpath in Java?",
+    "options": [
+      "Class definition",
+      "Path where JVM searches for classes",
+      "Package name",
+      "Method path"
+    ],
+    "answer": "Path where JVM searches for classes"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which function is used to get user input in Python?",
+    "options": ["get()", "input()", "read()", "scan()"],
+    "answer": "input()"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What is the correct file extension for Python files?",
+    "options": [".python", ".py", ".pt", ".pyt"],
+    "answer": ".py"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to create a function?",
+    "options": ["function", "def", "func", "define"],
+    "answer": "def"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What is the output of print(2 ** 3)?",
+    "options": ["6", "8", "9", "23"],
+    "answer": "8"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which data type is mutable in Python?",
+    "options": ["tuple", "int", "str", "list"],
+    "answer": "list"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What does len() function do?",
+    "options": [
+      "Lengthens string",
+      "Returns length",
+      "Deletes items",
+      "Creates list"
+    ],
+    "answer": "Returns length"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "/*", "#", "--"],
+    "answer": "#"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What is the correct way to create a list?",
+    "options": [
+      "list = (1, 2, 3)",
+      "list = [1, 2, 3]",
+      "list = {1, 2, 3}",
+      "list = <1, 2, 3>"
+    ],
+    "answer": "list = [1, 2, 3]"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which keyword is used for conditional statements?",
+    "options": ["if", "when", "condition", "check"],
+    "answer": "if"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What is indentation used for in Python?",
+    "options": ["Decoration", "Define code blocks", "Nothing", "Comments"],
+    "answer": "Define code blocks"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which operator is used for exponentiation?",
+    "options": ["^", "**", "exp", "pow"],
+    "answer": "**"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What does the range() function return?",
+    "options": ["List", "Sequence of numbers", "String", "Dictionary"],
+    "answer": "Sequence of numbers"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which method converts string to lowercase?",
+    "options": ["lower()", "lowercase()", "toLower()", "small()"],
+    "answer": "lower()"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What is the correct way to import a module?",
+    "options": [
+      "include module",
+      "import module",
+      "require module",
+      "using module"
+    ],
+    "answer": "import module"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to create a class?",
+    "options": ["class", "Class", "define", "object"],
+    "answer": "class"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What is the output of print(type([]))?",
+    "options": [
+      "<class 'list'>",
+      "<class 'array'>",
+      "<class 'tuple'>",
+      "<class 'dict'>"
+    ],
+    "answer": "<class 'list'>"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which loop is used to iterate over a sequence?",
+    "options": ["for", "while", "do-while", "foreach"],
+    "answer": "for"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What does the append() method do?",
+    "options": ["Remove item", "Add item to end", "Sort list", "Clear list"],
+    "answer": "Add item to end"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to handle exceptions?",
+    "options": ["catch", "except", "error", "handle"],
+    "answer": "except"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Easy",
+    "question": "What is None in Python?",
+    "options": ["Empty string", "Zero", "Null value", "False"],
+    "answer": "Null value"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "Which data structure is used to store key-value pairs in Python?",
+    "options": ["List", "Tuple", "Dictionary", "Set"],
+    "answer": "Dictionary"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What does the 'self' keyword represent in Python classes?",
+    "options": [
+      "Current class",
+      "Parent class",
+      "Current instance",
+      "Global variable"
+    ],
+    "answer": "Current instance"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is list comprehension?",
+    "options": [
+      "Understanding lists",
+      "Concise way to create lists",
+      "Deleting lists",
+      "Sorting lists"
+    ],
+    "answer": "Concise way to create lists"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the difference between == and is?",
+    "options": [
+      "No difference",
+      "== compares values, is compares identity",
+      "is is deprecated",
+      "== is faster"
+    ],
+    "answer": "== compares values, is compares identity"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is a lambda function?",
+    "options": [
+      "Regular function",
+      "Anonymous function",
+      "Built-in function",
+      "Class method"
+    ],
+    "answer": "Anonymous function"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What does *args do in function definition?",
+    "options": [
+      "Multiply arguments",
+      "Variable number of arguments",
+      "Required argument",
+      "Keyword argument"
+    ],
+    "answer": "Variable number of arguments"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the purpose of __init__ method?",
+    "options": [
+      "Delete object",
+      "Initialize object",
+      "Print object",
+      "Compare object"
+    ],
+    "answer": "Initialize object"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is slicing in Python?",
+    "options": [
+      "Cutting code",
+      "Extracting portion of sequence",
+      "Deleting items",
+      "Sorting items"
+    ],
+    "answer": "Extracting portion of sequence"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What does the zip() function do?",
+    "options": [
+      "Compress files",
+      "Combine iterables",
+      "Delete items",
+      "Sort items"
+    ],
+    "answer": "Combine iterables"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the difference between remove() and pop()?",
+    "options": [
+      "No difference",
+      "remove() by value, pop() by index",
+      "pop() is deprecated",
+      "remove() is faster"
+    ],
+    "answer": "remove() by value, pop() by index"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is a generator in Python?",
+    "options": [
+      "Power generator",
+      "Function that yields values",
+      "Class",
+      "Module"
+    ],
+    "answer": "Function that yields values"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What does the enumerate() function return?",
+    "options": [
+      "Numbers only",
+      "Index and value pairs",
+      "Values only",
+      "Nothing"
+    ],
+    "answer": "Index and value pairs"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the purpose of try-except block?",
+    "options": [
+      "Test code",
+      "Handle exceptions",
+      "Optimize code",
+      "Document code"
+    ],
+    "answer": "Handle exceptions"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the difference between shallow and deep copy?",
+    "options": [
+      "No difference",
+      "Shallow copies reference, deep copies value",
+      "Deep is deprecated",
+      "Shallow is faster"
+    ],
+    "answer": "Shallow copies reference, deep copies value"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What does **kwargs do?",
+    "options": [
+      "Power operation",
+      "Keyword arguments",
+      "Required arguments",
+      "Positional arguments"
+    ],
+    "answer": "Keyword arguments"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the purpose of the with statement?",
+    "options": [
+      "Add items",
+      "Context management",
+      "Loop control",
+      "Function definition"
+    ],
+    "answer": "Context management"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the difference between list and tuple?",
+    "options": [
+      "No difference",
+      "List is mutable, tuple is immutable",
+      "Tuple is deprecated",
+      "List is faster"
+    ],
+    "answer": "List is mutable, tuple is immutable"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What does the map() function do?",
+    "options": [
+      "Create maps",
+      "Apply function to iterable",
+      "Sort items",
+      "Delete items"
+    ],
+    "answer": "Apply function to iterable"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the purpose of @staticmethod decorator?",
+    "options": [
+      "Make method static",
+      "Define static method",
+      "Delete method",
+      "Rename method"
+    ],
+    "answer": "Define static method"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Medium",
+    "question": "What is the difference between append() and extend()?",
+    "options": [
+      "No difference",
+      "append() adds one item, extend() adds multiple",
+      "extend() is deprecated",
+      "append() is faster"
+    ],
+    "answer": "append() adds one item, extend() adds multiple"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is a decorator in Python?",
+    "options": [
+      "Design pattern",
+      "Function that modifies another function",
+      "Class modifier",
+      "Loop structure"
+    ],
+    "answer": "Function that modifies another function"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the GIL in Python?",
+    "options": [
+      "Graphics Library",
+      "Global Interpreter Lock",
+      "General Input Library",
+      "Grid Interface Layer"
+    ],
+    "answer": "Global Interpreter Lock"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is metaclass in Python?",
+    "options": [
+      "Regular class",
+      "Class of a class",
+      "Instance of class",
+      "Module"
+    ],
+    "answer": "Class of a class"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the purpose of __new__ method?",
+    "options": [
+      "Initialize object",
+      "Create object",
+      "Delete object",
+      "Copy object"
+    ],
+    "answer": "Create object"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is monkey patching?",
+    "options": [
+      "Animal programming",
+      "Modifying code at runtime",
+      "Testing method",
+      "Documentation"
+    ],
+    "answer": "Modifying code at runtime"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the difference between @classmethod and @staticmethod?",
+    "options": [
+      "No difference",
+      "classmethod receives class, staticmethod doesn't",
+      "staticmethod is deprecated",
+      "classmethod is faster"
+    ],
+    "answer": "classmethod receives class, staticmethod doesn't"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the purpose of __slots__?",
+    "options": [
+      "Create slots",
+      "Restrict attribute creation",
+      "Delete attributes",
+      "Rename attributes"
+    ],
+    "answer": "Restrict attribute creation"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the difference between is and ==?",
+    "options": [
+      "No difference",
+      "is checks identity, == checks equality",
+      "== is deprecated",
+      "is is faster"
+    ],
+    "answer": "is checks identity, == checks equality"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is context manager protocol?",
+    "options": [
+      "Network protocol",
+      "__enter__ and __exit__ methods",
+      "Security protocol",
+      "Data protocol"
+    ],
+    "answer": "__enter__ and __exit__ methods"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the purpose of yield keyword?",
+    "options": [
+      "Return value",
+      "Create generator",
+      "Stop function",
+      "Define variable"
+    ],
+    "answer": "Create generator"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is multiple inheritance?",
+    "options": [
+      "Single parent",
+      "Multiple parent classes",
+      "No inheritance",
+      "Private inheritance"
+    ],
+    "answer": "Multiple parent classes"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the MRO (Method Resolution Order)?",
+    "options": [
+      "Random order",
+      "Order of method lookup in inheritance",
+      "Module order",
+      "Reverse order"
+    ],
+    "answer": "Order of method lookup in inheritance"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the purpose of @property decorator?",
+    "options": [
+      "Create property",
+      "Define getter method",
+      "Delete property",
+      "Rename property"
+    ],
+    "answer": "Define getter method"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is closure in Python?",
+    "options": [
+      "Closing files",
+      "Function with enclosing scope",
+      "Class method",
+      "Module import"
+    ],
+    "answer": "Function with enclosing scope"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the difference between deepcopy and copy?",
+    "options": [
+      "No difference",
+      "deepcopy copies recursively",
+      "copy is deprecated",
+      "deepcopy is faster"
+    ],
+    "answer": "deepcopy copies recursively"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the purpose of __call__ method?",
+    "options": [
+      "Call functions",
+      "Make instance callable",
+      "Delete instance",
+      "Copy instance"
+    ],
+    "answer": "Make instance callable"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the asyncio library used for?",
+    "options": [
+      "Synchronous programming",
+      "Asynchronous programming",
+      "File I/O",
+      "Database operations"
+    ],
+    "answer": "Asynchronous programming"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the purpose of __repr__ method?",
+    "options": [
+      "Repeat object",
+      "Official string representation",
+      "Delete object",
+      "Copy object"
+    ],
+    "answer": "Official string representation"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is duck typing in Python?",
+    "options": [
+      "Animal typing",
+      "Type determined by methods not inheritance",
+      "Static typing",
+      "No typing"
+    ],
+    "answer": "Type determined by methods not inheritance"
+  },
+  {
+    "subject": "Python",
+    "difficulty": "Hard",
+    "question": "What is the purpose of itertools module?",
+    "options": [
+      "Iterate files",
+      "Efficient iteration tools",
+      "Network iteration",
+      "Database iteration"
+    ],
+    "answer": "Efficient iteration tools"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What does OOP stand for?",
+    "options": [
+      "Object-Oriented Programming",
+      "Object-Only Programming",
+      "Operational Object Programming",
+      "Open Object Protocol"
+    ],
+    "answer": "Object-Oriented Programming"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "Which principle allows hiding internal implementation details?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation", "Abstraction"],
+    "answer": "Encapsulation"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is a class?",
+    "options": ["Instance", "Blueprint for objects", "Method", "Variable"],
+    "answer": "Blueprint for objects"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is an object?",
+    "options": ["Class", "Instance of a class", "Method", "Variable"],
+    "answer": "Instance of a class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is a method?",
+    "options": ["Variable", "Function inside a class", "Class", "Object"],
+    "answer": "Function inside a class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is a constructor?",
+    "options": [
+      "Destructs object",
+      "Initializes object",
+      "Deletes object",
+      "Copies object"
+    ],
+    "answer": "Initializes object"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What does inheritance mean?",
+    "options": [
+      "Creating objects",
+      "Deriving properties from parent",
+      "Hiding data",
+      "Deleting classes"
+    ],
+    "answer": "Deriving properties from parent"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is polymorphism?",
+    "options": ["One form", "Many forms", "No forms", "Static form"],
+    "answer": "Many forms"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is abstraction?",
+    "options": [
+      "Showing all details",
+      "Hiding complex details",
+      "Creating objects",
+      "Deleting objects"
+    ],
+    "answer": "Hiding complex details"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is an attribute?",
+    "options": ["Method", "Variable inside class", "Function", "Object"],
+    "answer": "Variable inside class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is the purpose of access modifiers?",
+    "options": [
+      "Modify values",
+      "Control access to members",
+      "Delete members",
+      "Create members"
+    ],
+    "answer": "Control access to members"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is a public member?",
+    "options": [
+      "Hidden member",
+      "Accessible everywhere",
+      "Private member",
+      "Protected member"
+    ],
+    "answer": "Accessible everywhere"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is a private member?",
+    "options": [
+      "Accessible everywhere",
+      "Accessible only within class",
+      "Protected",
+      "Public"
+    ],
+    "answer": "Accessible only within class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is method overloading?",
+    "options": [
+      "Same method different parameters",
+      "Different methods",
+      "Deleting methods",
+      "No methods"
+    ],
+    "answer": "Same method different parameters"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is an interface?",
+    "options": ["Concrete class", "Contract for classes", "Object", "Variable"],
+    "answer": "Contract for classes"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is a superclass?",
+    "options": ["Child class", "Parent class", "Interface", "Object"],
+    "answer": "Parent class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is a subclass?",
+    "options": ["Parent class", "Child class", "Interface", "Method"],
+    "answer": "Child class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is composition?",
+    "options": [
+      "Inheritance",
+      "Has-a relationship",
+      "Is-a relationship",
+      "No relationship"
+    ],
+    "answer": "Has-a relationship"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is association?",
+    "options": [
+      "No relationship",
+      "Relationship between objects",
+      "Inheritance",
+      "Composition"
+    ],
+    "answer": "Relationship between objects"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Easy",
+    "question": "What is aggregation?",
+    "options": [
+      "Strong ownership",
+      "Weak ownership relationship",
+      "No relationship",
+      "Inheritance"
+    ],
+    "answer": "Weak ownership relationship"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is inheritance in OOP?",
+    "options": [
+      "Creating multiple objects",
+      "Deriving a class from another class",
+      "Hiding data",
+      "Method overloading"
+    ],
+    "answer": "Deriving a class from another class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "Which OOP concept allows one interface to be used for different data types?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Abstraction"],
+    "answer": "Polymorphism"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is method overriding?",
+    "options": [
+      "Same method same class",
+      "Redefining parent method in child",
+      "Creating method",
+      "Deleting method"
+    ],
+    "answer": "Redefining parent method in child"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is multiple inheritance?",
+    "options": [
+      "One parent",
+      "Multiple parent classes",
+      "No parents",
+      "Private inheritance"
+    ],
+    "answer": "Multiple parent classes"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is a virtual function?",
+    "options": [
+      "Non-existent function",
+      "Function that can be overridden",
+      "Static function",
+      "Private function"
+    ],
+    "answer": "Function that can be overridden"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is dynamic binding?",
+    "options": [
+      "Compile-time binding",
+      "Runtime method resolution",
+      "No binding",
+      "Static binding"
+    ],
+    "answer": "Runtime method resolution"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is static binding?",
+    "options": [
+      "Runtime binding",
+      "Compile-time binding",
+      "No binding",
+      "Dynamic binding"
+    ],
+    "answer": "Compile-time binding"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is an abstract method?",
+    "options": [
+      "Concrete method",
+      "Method without implementation",
+      "Private method",
+      "Static method"
+    ],
+    "answer": "Method without implementation"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is the difference between class and object?",
+    "options": [
+      "No difference",
+      "Class is template, object is instance",
+      "Object is template",
+      "Class is instance"
+    ],
+    "answer": "Class is template, object is instance"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is cohesion in OOP?",
+    "options": [
+      "Low relatedness",
+      "High relatedness within class",
+      "No relatedness",
+      "External relatedness"
+    ],
+    "answer": "High relatedness within class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is coupling in OOP?",
+    "options": [
+      "No dependency",
+      "Degree of interdependence",
+      "High independence",
+      "No relationship"
+    ],
+    "answer": "Degree of interdependence"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is a destructor?",
+    "options": [
+      "Creates object",
+      "Cleans up object",
+      "Copies object",
+      "Modifies object"
+    ],
+    "answer": "Cleans up object"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is operator overloading?",
+    "options": [
+      "Creating operators",
+      "Redefining operator behavior",
+      "Deleting operators",
+      "No operators"
+    ],
+    "answer": "Redefining operator behavior"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is a friend function?",
+    "options": [
+      "Public function",
+      "Function accessing private members",
+      "Private function",
+      "Static function"
+    ],
+    "answer": "Function accessing private members"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is the diamond problem?",
+    "options": [
+      "Shape problem",
+      "Multiple inheritance ambiguity",
+      "Single inheritance",
+      "No inheritance"
+    ],
+    "answer": "Multiple inheritance ambiguity"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is message passing?",
+    "options": [
+      "Email system",
+      "Objects communicating",
+      "No communication",
+      "Class creation"
+    ],
+    "answer": "Objects communicating"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is the this pointer/keyword?",
+    "options": [
+      "Random pointer",
+      "Points to current object",
+      "Points to parent",
+      "Points to nothing"
+    ],
+    "answer": "Points to current object"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is encapsulation vs abstraction?",
+    "options": [
+      "Same thing",
+      "Encapsulation hides data, abstraction hides complexity",
+      "No difference",
+      "Opposite concepts"
+    ],
+    "answer": "Encapsulation hides data, abstraction hides complexity"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is hierarchical inheritance?",
+    "options": [
+      "One child",
+      "Multiple children from one parent",
+      "Multiple parents",
+      "No inheritance"
+    ],
+    "answer": "Multiple children from one parent"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Medium",
+    "question": "What is multilevel inheritance?",
+    "options": [
+      "Single level",
+      "Chain of inheritance",
+      "No inheritance",
+      "Multiple parents"
+    ],
+    "answer": "Chain of inheritance"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the difference between abstract class and interface?",
+    "options": [
+      "No difference",
+      "Abstract class can have constructors, interface cannot",
+      "Interface is concrete",
+      "Abstract class is newer"
+    ],
+    "answer": "Abstract class can have constructors, interface cannot"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Liskov Substitution Principle?",
+    "options": [
+      "Random principle",
+      "Subtypes must be substitutable for base types",
+      "No substitution",
+      "Private inheritance"
+    ],
+    "answer": "Subtypes must be substitutable for base types"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Open/Closed Principle?",
+    "options": [
+      "Always open",
+      "Open for extension, closed for modification",
+      "Always closed",
+      "No principle"
+    ],
+    "answer": "Open for extension, closed for modification"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Single Responsibility Principle?",
+    "options": [
+      "Multiple responsibilities",
+      "One class one responsibility",
+      "No responsibility",
+      "Shared responsibility"
+    ],
+    "answer": "One class one responsibility"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Interface Segregation Principle?",
+    "options": [
+      "One large interface",
+      "Many specific interfaces better than one general",
+      "No interfaces",
+      "Private interfaces"
+    ],
+    "answer": "Many specific interfaces better than one general"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Dependency Inversion Principle?",
+    "options": [
+      "Depend on concrete",
+      "Depend on abstractions not concrete",
+      "No dependencies",
+      "Random dependencies"
+    ],
+    "answer": "Depend on abstractions not concrete"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Law of Demeter?",
+    "options": [
+      "Talk to anyone",
+      "Only talk to immediate friends",
+      "No communication",
+      "Public communication"
+    ],
+    "answer": "Only talk to immediate friends"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is covariance in OOP?",
+    "options": [
+      "No variance",
+      "Return type varies with subtype",
+      "Parameter variance",
+      "No return"
+    ],
+    "answer": "Return type varies with subtype"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is contravariance?",
+    "options": [
+      "No variance",
+      "Parameter type varies opposite to subtype",
+      "Return variance",
+      "Same variance"
+    ],
+    "answer": "Parameter type varies opposite to subtype"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the difference between composition and aggregation?",
+    "options": [
+      "No difference",
+      "Composition implies ownership, aggregation doesn't",
+      "Aggregation is stronger",
+      "Same concept"
+    ],
+    "answer": "Composition implies ownership, aggregation doesn't"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is double dispatch?",
+    "options": [
+      "Sending twice",
+      "Dynamic binding twice",
+      "No dispatch",
+      "Static dispatch"
+    ],
+    "answer": "Dynamic binding twice"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Template Method pattern?",
+    "options": [
+      "Random pattern",
+      "Define algorithm skeleton in base class",
+      "No pattern",
+      "Concrete pattern"
+    ],
+    "answer": "Define algorithm skeleton in base class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Strategy pattern?",
+    "options": [
+      "War strategy",
+      "Define family of algorithms",
+      "No strategy",
+      "Single algorithm"
+    ],
+    "answer": "Define family of algorithms"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Observer pattern?",
+    "options": [
+      "Watch TV",
+      "One-to-many dependency",
+      "No dependency",
+      "One-to-one"
+    ],
+    "answer": "One-to-many dependency"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Factory pattern?",
+    "options": [
+      "Building factory",
+      "Create objects without specifying class",
+      "Delete objects",
+      "No creation"
+    ],
+    "answer": "Create objects without specifying class"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Decorator pattern?",
+    "options": [
+      "Interior design",
+      "Add behavior dynamically",
+      "Remove behavior",
+      "No behavior"
+    ],
+    "answer": "Add behavior dynamically"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the Adapter pattern?",
+    "options": [
+      "Power adapter",
+      "Convert interface to another",
+      "No conversion",
+      "Delete interface"
+    ],
+    "answer": "Convert interface to another"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the difference between overloading and overriding?",
+    "options": [
+      "No difference",
+      "Overloading is compile-time, overriding is runtime",
+      "Same concept",
+      "Overriding is deprecated"
+    ],
+    "answer": "Overloading is compile-time, overriding is runtime"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the fragile base class problem?",
+    "options": [
+      "Strong base",
+      "Changes in base break derived classes",
+      "No problem",
+      "Private problem"
+    ],
+    "answer": "Changes in base break derived classes"
+  },
+  {
+    "subject": "OOP",
+    "difficulty": "Hard",
+    "question": "What is the circular dependency problem?",
+    "options": [
+      "Linear dependency",
+      "Classes depend on each other",
+      "No dependency",
+      "One-way dependency"
+    ],
+    "answer": "Classes depend on each other"
+  }
+]
