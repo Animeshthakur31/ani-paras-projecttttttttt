@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TechTrivia App - Home</title>
+    <style>
+      body {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 20px;
+      }
+      .header {
+        background: white;
+        padding: 1rem 2rem;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      }
+      .header h3 {
+        margin: 0;
+        color: #667eea;
+      }
+      .logout-btn {
+        background: #e74c3c;
+        color: white;
+        padding: 8px 20px;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      .logout-btn:hover {
+        background: #c0392b;
+      }
+      .container {
+        background: white;
+        padding: 3rem;
+        border-radius: 20px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      h1 {
+        color: #667eea;
+        text-align: center;
+        margin-bottom: 1rem;
+      }
+      .subtitle {
+        text-align: center;
+        color: #666;
+        margin-bottom: 2rem;
+      }
+      .subject-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 15px;
+        margin-bottom: 2rem;
+      }
+      .subject-box {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 30px 20px;
+        border-radius: 15px;
+        text-align: center;
+        cursor: pointer;
+        transition: 0.3s;
+        border: 3px solid transparent;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      }
+      .subject-box:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+      }
+      .subject-box.selected {
+        border-color: #ffd700;
+        box-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+      }
+      .subject-icon {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+      }
+      .subject-name {
+        font-weight: bold;
+        font-size: 1.1rem;
+      }
+      .difficulty-section {
+        margin: 2rem 0;
+      }
+      .difficulty-section h3 {
+        color: #333;
+        margin-bottom: 1rem;
+      }
+      .difficulty-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 15px;
+      }
+      .difficulty-box {
+        background: #f8f8f8;
+        padding: 20px;
+        border-radius: 12px;
+        text-align: center;
+        cursor: pointer;
+        border: 3px solid #ddd;
+        transition: 0.3s;
+      }
+      .difficulty-box:hover {
+        background: #fff;
+        border-color: #667eea;
+      }
+      .difficulty-box.selected {
+        background: #667eea;
+        color: white;
+        border-color: #667eea;
+      }
+      .difficulty-icon {
+        font-size: 2rem;
+        margin-bottom: 5px;
+      }
+      .difficulty-name {
+        font-weight: bold;
+        font-size: 1rem;
+        margin-bottom: 5px;
+      }
+      .difficulty-desc {
+        font-size: 0.8rem;
+        opacity: 0.8;
+      }
+      button {
+        background: #667eea;
+        color: white;
+        padding: 15px 50px;
+        border: none;
+        border-radius: 30px;
+        font-size: 1.1rem;
+        cursor: pointer;
+        font-weight: bold;
+        width: 100%;
+        transition: 0.3s;
+        margin-top: 1rem;
+      }
+      button:hover {
+        background: #5568d3;
+        transform: translateY(-2px);
+      }
+      button:disabled {
+        background: #ccc;
+        cursor: not-allowed;
+        transform: none;
+      }
+      .history {
+        margin-top: 2rem;
+        padding-top: 2rem;
+        border-top: 2px solid #f0f0f0;
+      }
+      .history h3 {
+        color: #333;
+        margin-bottom: 1rem;
+      }
+      .history-item {
+        background: #f8f8f8;
+        padding: 15px;
+        margin: 10px 0;
+        border-radius: 10px;
+        border-left: 4px solid #667eea;
+      }
+      .history-item p {
+        margin: 5px 0;
+        font-size: 0.9rem;
+      }
+      .profile-link {
+        display: inline-block;
+        margin-left: 15px;
+        color: #667eea;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      .profile-link:hover {
+        text-decoration: underline;
+      }
+      input[type="hidden"] {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <div>
+        <h3>Welcome, {{ username }}! 👋</h3>
+        <a href="{{ url_for('profile') }}" class="profile-link"
+          >View Full Profile</a
+        >
+      </div>
+      <a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+    </div>
+
+    <div class="container">
+      <h1>🎯 TechTrivia App</h1>
+      <p class="subtitle">
+        Test your knowledge in Cybersecurity, Java, Python, and OOP!
+      </p>
+
+      <form method="POST" action="/start_quiz" id="quizForm">
+        <input type="hidden" name="subject" id="selectedSubject" />
+        <input type="hidden" name="difficulty" id="selectedDifficulty" />
+
+        <h3>Select Subject:</h3>
+        <div class="subject-grid">
+          <div class="subject-box" data-subject="Cybersecurity">
+            <div class="subject-icon">🔐</div>
+            <div class="subject-name">Cybersecurity</div>
+          </div>
+          <div class="subject-box" data-subject="Java">
+            <div class="subject-icon">☕</div>
+            <div class="subject-name">Java</div>
+          </div>
+          <div class="subject-box" data-subject="Python">
+            <div class="subject-icon">🐍</div>
+            <div class="subject-name">Python</div>
+          </div>
+          <div class="subject-box" data-subject="OOP">
+            <div class="subject-icon">📦</div>
+            <div class="subject-name">OOP</div>
+          </div>
+        </div>
+
+        <div class="difficulty-section">
+          <h3>Select Difficulty:</h3>
+          <div class="difficulty-grid">
+            <div class="difficulty-box" data-difficulty="Easy">
+              <div class="difficulty-icon">🟢</div>
+              <div class="difficulty-name">Easy</div>
+              <div class="difficulty-desc">10 questions</div>
+            </div>
+            <div class="difficulty-box" data-difficulty="Medium">
+              <div class="difficulty-icon">🟡</div>
+              <div class="difficulty-name">Medium</div>
+              <div class="difficulty-desc">10 questions</div>
+            </div>
+            <div class="difficulty-box" data-difficulty="Hard">
+              <div class="difficulty-icon">🔴</div>
+              <div class="difficulty-name">Hard</div>
+              <div class="difficulty-desc">10 questions</div>
+            </div>
+          </div>
+        </div>
+
+        <button type="submit" id="startBtn" disabled>Start Quiz</button>
+      </form>
+
+      {% if history %}
+      <div class="history">
+        <h3>Recent Quiz History</h3>
+        {% for item in history %}
+        <div class="history-item">
+          <p>
+            <strong>{{ item['subject'] }}</strong> - {{ item['difficulty'] }}
+          </p>
+          <p>
+            Score: {{ item['score'] }}/{{ item['total_questions'] }} ({{
+            item['percentage']|round(1) }}%)
+          </p>
+          <p style="color: #999; font-size: 0.8rem">
+            {{ item['completed_at'] }}
+          </p>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
+    <script>
+      let selectedSubject = null;
+      let selectedDifficulty = null;
+
+      // Subject selection
+      document.querySelectorAll(".subject-box").forEach((box) => {
+        box.addEventListener("click", function () {
+          document
+            .querySelectorAll(".subject-box")
+            .forEach((b) => b.classList.remove("selected"));
+          this.classList.add("selected");
+          selectedSubject = this.getAttribute("data-subject");
+          document.getElementById("selectedSubject").value = selectedSubject;
+          checkSelection();
+        });
+      });
+
+      // Difficulty selection
+      document.querySelectorAll(".difficulty-box").forEach((box) => {
+        box.addEventListener("click", function () {
+          document
+            .querySelectorAll(".difficulty-box")
+            .forEach((b) => b.classList.remove("selected"));
+          this.classList.add("selected");
+          selectedDifficulty = this.getAttribute("data-difficulty");
+          document.getElementById("selectedDifficulty").value =
+            selectedDifficulty;
+          checkSelection();
+        });
+      });
+
+      // Enable button only when both are selected
+      function checkSelection() {
+        const startBtn = document.getElementById("startBtn");
+        if (selectedSubject && selectedDifficulty) {
+          startBtn.disabled = false;
+        } else {
+          startBtn.disabled = true;
+        }
+      }
+    </script>
+  </body>
+</html>

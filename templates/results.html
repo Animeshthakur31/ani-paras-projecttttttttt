@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Results - TechTrivia App</title>
+    <style>
+      body {
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 20px;
+      }
+      .results-container {
+        background: white;
+        padding: 3rem;
+        border-radius: 20px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        max-width: 500px;
+        width: 100%;
+        text-align: center;
+      }
+      h1 {
+        color: #4facfe;
+        margin-bottom: 1rem;
+      }
+      .score-circle {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 2rem auto;
+        color: white;
+        box-shadow: 0 10px 30px rgba(79, 172, 254, 0.4);
+      }
+      .score-number {
+        font-size: 3rem;
+        font-weight: bold;
+      }
+      .score-text {
+        font-size: 1rem;
+      }
+      .details {
+        background: #f8f8f8;
+        padding: 1.5rem;
+        border-radius: 10px;
+        margin: 1.5rem 0;
+        text-align: left;
+      }
+      .details p {
+        margin: 0.5rem 0;
+        font-size: 1.1rem;
+      }
+      .grade {
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin: 1rem 0;
+      }
+      .grade.excellent {
+        color: #00c851;
+      }
+      .grade.good {
+        color: #4caf50;
+      }
+      .grade.average {
+        color: #ff9800;
+      }
+      .grade.poor {
+        color: #f44336;
+      }
+
+      button {
+        background: #4facfe;
+        color: white;
+        padding: 15px 40px;
+        border: none;
+        border-radius: 30px;
+        font-size: 1rem;
+        cursor: pointer;
+        font-weight: bold;
+        margin: 10px;
+        transition: 0.3s;
+      }
+      button:hover {
+        background: #3d8fdb;
+        transform: translateY(-2px);
+      }
+      a {
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="results-container">
+      <h1>🎉 Quiz Complete!</h1>
+
+      <div class="score-circle">
+        <div class="score-number">{{ score }}/{{ total }}</div>
+        <div class="score-text">{{ percentage|round(1) }}%</div>
+      </div>
+
+      <div class="details">
+        <p><strong>Subject:</strong> {{ subject }}</p>
+        <p><strong>Difficulty:</strong> {{ difficulty }}</p>
+        <p><strong>Correct Answers:</strong> {{ score }} out of {{ total }}</p>
+      </div>
+
+      {% if percentage >= 80 %}
+      <div class="grade excellent">Grade: Excellent! 🌟</div>
+      {% elif percentage >= 60 %}
+      <div class="grade good">Grade: Good! 👍</div>
+      {% elif percentage >= 40 %}
+      <div class="grade average">Grade: Average 📚</div>
+      {% else %}
+      <div class="grade poor">Grade: Keep Practicing! 💪</div>
+      {% endif %}
+
+      <a href="{{ url_for('home') }}"><button>Take Another Quiz</button></a>
+    </div>
+
+    <script>
+      // Add animation to score circle
+      window.onload = function () {
+        const circle = document.querySelector(".score-circle");
+        circle.style.transform = "scale(0)";
+        setTimeout(() => {
+          circle.style.transition = "transform 0.5s ease-out";
+          circle.style.transform = "scale(1)";
+        }, 100);
+      };
+    </script>
+  </body>
+</html>

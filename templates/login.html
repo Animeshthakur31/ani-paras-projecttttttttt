@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Login - TechTrivia App</title>
+    <style>
+      body {
+        background: linear-gradient(135deg, #11998e, #38ef7d);
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+      }
+      .login-container {
+        background: white;
+        padding: 2.5rem 3rem;
+        border-radius: 15px;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+        max-width: 400px;
+        width: 100%;
+      }
+      h2 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 1.5rem;
+      }
+      input {
+        width: 100%;
+        padding: 12px 15px;
+        margin: 10px 0;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        transition: 0.3s;
+      }
+      input:focus {
+        border-color: #11998e;
+        outline: none;
+      }
+      button {
+        width: 100%;
+        background: #11998e;
+        color: white;
+        padding: 12px;
+        border: none;
+        border-radius: 30px;
+        font-size: 1rem;
+        cursor: pointer;
+        margin-top: 10px;
+        transition: 0.3s;
+      }
+      button:hover {
+        background: #0e8072;
+      }
+      .link {
+        text-align: center;
+        margin-top: 1rem;
+        display: block;
+        color: #38ef7d;
+        text-decoration: none;
+      }
+      .link:hover {
+        text-decoration: underline;
+      }
+      .alert {
+        padding: 12px;
+        border-radius: 8px;
+        margin-bottom: 1rem;
+        animation: fadein 0.5s;
+      }
+      .alert.error {
+        background-color: #ff4c4c;
+        color: white;
+      }
+      .alert.info {
+        background-color: #2196f3;
+        color: white;
+      }
+      @keyframes fadein {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="login-container">
+      <h2>Login</h2>
+      {% with messages = get_flashed_messages(with_categories=true) %} {% if
+      messages %} {% for category, message in messages %}
+      <div class="alert {{ category }}">{{ message }}</div>
+      {% endfor %} {% endif %} {% endwith %}
+
+      <form method="POST" action="{{ url_for('login') }}">
+        <input type="text" name="username" placeholder="Username" required />
+        <input
+          type="password"
+          name="password"
+          placeholder="Password"
+          required
+        />
+        <button type="submit">Login</button>
+      </form>
+      <a href="{{ url_for('register') }}" class="link"
+        >Don't have an account? Register</a
+      >
+    </div>
+  </body>
+</html>
