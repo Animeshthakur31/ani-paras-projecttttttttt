@@ -1,2 +1,2 @@
-flask
-werkzeug.security
+Flask==2.1.2
+Werkzeug==2.1.2
