@@ -1,8 +1,6 @@
 from flask import Flask, render_template, request, session, redirect, url_for, flash, g
 from werkzeug.security import generate_password_hash, check_password_hash
-import sqlite3
-import json
-import random
+import sqlite3,json, random, os
 # from datetime import datetime
 
 app = Flask(__name__)
@@ -251,7 +249,8 @@ def profile():
                          history=history,
                          total_quizzes=total_quizzes,
                          avg_score=avg_score)
+init_db()
 
-if __name__ == '__main__':
-    init_db()
-    app.run(debug=True)
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000)) 
+    app.run(host="0.0.0.0", port=port)
